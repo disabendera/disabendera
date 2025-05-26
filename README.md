@@ -1,1 +1,1 @@
-[![Статистика GitHub disabendera](https://github-readme-stats.vercel.app/api?username=disabendera&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Статистика GitHub disabendera](https://github-readme-stats-delta-two-18.vercel.app/api?username=disabendera&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
